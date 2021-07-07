@@ -1,0 +1,7 @@
+Flask~=1.1.2
+Jinja2
+numpy~=1.19.2
+scikit-learn~=0.23.2
+scipy~=1.5.3
+virtualenv
+pillow
