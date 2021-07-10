@@ -20,3 +20,4 @@ RetinaNet 모델을 구축, 패션 룩이 있는 사진에서 각 아이템(상�
 
 
 ## 4. Reference.
+1. [Deep Fashin] : https://mmlab.ie.cuhk.edu.hk/projects/DeepFashion.html
