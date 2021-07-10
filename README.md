@@ -22,13 +22,13 @@
 ## 4. Reference
 #### 1. [Deep Fashion](https://mmlab.ie.cuhk.edu.hk/projects/DeepFashion.html)
 #### 2. ResNet<br>
-    - Kaiming He, Xiangyu Zhang,  Shaoqing Ren, Jian Sun (2016). “Deep Residual Learning for Image Recognition”, Microsoft Research
-    - [MathWorks](https://kr.mathworks.com/help/deeplearning/ug/pretrained-convolutional-neural-networks.html)
+   - Kaiming He, Xiangyu Zhang,  Shaoqing Ren, Jian Sun (2016). “Deep Residual Learning for Image Recognition”, Microsoft Research
+   - [MathWorks](https://kr.mathworks.com/help/deeplearning/ug/pretrained-convolutional-neural-networks.html)
 #### 3. RetinaNet<br>
-    - Zhengxia Zou, Zhenwei Shi, Yuhong Guo, and Jieping Ye (2019). “Object Detection in 20 Years: A Survey”, IEEE
-    - [blog](https://chacha95.github.io/2020-02-26-Object-Detection3)
+   - Zhengxia Zou, Zhenwei Shi, Yuhong Guo, and Jieping Ye (2019). “Object Detection in 20 Years: A Survey”, IEEE
+   - [blog](https://chacha95.github.io/2020-02-26-Object-Detection3)
 #### 4. 특이값분해 <br>
-    - 김용식, 이홍철, 천현재 (2002). “SVD를 활용한 전자상거래에서의 Hybrid 추천 시스템 개발”. 한국 SCM 학회지, 2(1)
-    - blogs
+   - 김용식, 이홍철, 천현재 (2002). “SVD를 활용한 전자상거래에서의 Hybrid 추천 시스템 개발”. 한국 SCM 학회지, 2(1)
+   - blogs
       * [1](https://ratsgo.github.io/from%20frequency%20to%20semantics/2017/04/06/pcasvdlsa/)
       * [2](https://www.sallys.space/blog/2018/05/16/intro-to-resys/)
