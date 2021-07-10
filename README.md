@@ -20,7 +20,7 @@
 ![Recommend](./img/Recommend.PNG)
 
 ## 3. 동작화면
-### [시연영상](https://youtu.be/JJbFNAx_hnQ){:target="blank"}
+### [시연영상](https://youtu.be/JJbFNAx_hnQ)
 
 ![Process](./img/Process.PNG)
 
