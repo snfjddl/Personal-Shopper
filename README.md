@@ -6,7 +6,7 @@
 온라인 쇼핑 시 퍼스널 쇼퍼가 옆에 있는 것처럼 사용자에게 어울리는 패션을 추천해주는 목적으로 기획하였습니다.
 (모델링한 .pt, .pth 파일은 용량 제한으로 업로드 X)
 
-![screensh](./Personal Shopper/img/Introduce.PNG)
+![screensh](./Personal_Shopper/img/Introduce.PNG)
 
 ## 2. 구현 기능
 ###  - Object Classification<br>
