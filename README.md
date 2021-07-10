@@ -13,11 +13,22 @@
 ResNet 모델을 구축, 사용자가 업로드한 사진에 대한 속성(색상, 종류, 스타일)을 분류해준다.
 ###  - Object Detection<br>
 RetinaNet 모델을 구축, 패션 룩이 있는 사진에서 각 아이템(상의, 하의 등)에 Bounding box를 두르고 해당 라벨링을 표시해준다.
-###  - 추천 시스템(SVD)<br>
+###  - 특이값 분해(SVD)<br>
 특이값 분해(SVD, Singular Value Decomposition)는 개인과 상품 간의 관계에서 선호도에 잠재적으로 영향을 미치는 요인들을 분석하여 추천해주는 시스템으로, 다른 사용자들의 데이터가 추가될수록 좀 더 사용자 취향에 맞는 추천이 가능한 시스템이다.
 
 ## 3. 동작화면
 
 
 ## 4. Reference.
-1. [Deep Fashin] : https://mmlab.ie.cuhk.edu.hk/projects/DeepFashion.html
+1. [Deep Fashion] (https://mmlab.ie.cuhk.edu.hk/projects/DeepFashion.html)
+2. ResNet
+  - Kaiming He, Xiangyu Zhang,  Shaoqing Ren, Jian Sun (2016). “Deep Residual Learning for Image Recognition”, Microsoft Research
+  - [MathWorks] (https://kr.mathworks.com/help/deeplearning/ug/pretrained-convolutional-neural-networks.html)
+3. RetinaNet
+  - Zhengxia Zou, Zhenwei Shi, Yuhong Guo, and Jieping Ye (2019). “Object Detection in 20 Years: A Survey”, IEEE
+  - [blog] (https://chacha95.github.io/2020-02-26-Object-Detection3)
+4. 특이값분해 
+  - 김용식, 이홍철, 천현재 (2002). “SVD를 활용한 전자상거래에서의 Hybrid 추천 시스템 개발”. 한국 SCM 학회지, 2(1)
+  - [blogs]
+    * [1] (https://ratsgo.github.io/from%20frequency%20to%20semantics/2017/04/06/pcasvdlsa/)
+    * [2] (https://www.sallys.space/blog/2018/05/16/intro-to-resys/)
