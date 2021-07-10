@@ -1,4 +1,4 @@
-# Personal-Shopper
+# Personal Shopper AI
 
 ## 1. 프로젝트 소개
 본 프로젝트는 포스코 AI&Bigdata 아카데미시절 진행하였습니다.
